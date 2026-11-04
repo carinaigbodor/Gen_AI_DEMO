@@ -28,7 +28,7 @@ Generat two short paragraphs and a closing line with the next step.
 """
 
 st.set_page_config(page_title="Webfala", page_icon="💬")
-st.title("Webfala Customer Support")
+st.title("Carina's Customer Support")
 st.caption("Ask me anything and I'll do my best to help.")
 
 
